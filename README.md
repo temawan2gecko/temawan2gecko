@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dycGhsd2lib3kza2UwMTQ2cnVtY2V1cHIwOTV6OGJ2YW11MTl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
+
 <!--
 **temawan2gecko/temawan2gecko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
