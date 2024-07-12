@@ -27,26 +27,6 @@
 
 ## 🛠️ Мои навыки / My Skills
 
-### Алгоритмы и структуры данных / Algorithms and Data Structures
-
-Я уверенно работаю с **алгоритмами и структурами данных**, что позволяет мне создавать эффективные и оптимизированные приложения. 💡  
-I confidently work with **algorithms and data structures**, enabling me to create efficient and optimized applications. 💡
-
-- 📚 **Алгоритмы сортировки:** Понимание различных методов сортировки помогает мне выбирать лучший подход для обработки данных. Например, я использую Quick Sort и Merge Sort для достижения максимальной производительности!  
-  **Sorting Algorithms:** Understanding different sorting methods helps me choose the best approach for data processing. For instance, I use Quick Sort and Merge Sort for maximum performance!
-
-- 🗃️ **Структуры данных:** Массивы, стеки и очереди — это основные строительные блоки для создания сложных приложений. Я с легкостью применяю их для управления состоянием и потоками данных.  
-  **Data Structures:** Arrays, stacks, and queues are essential building blocks for creating complex applications. I easily apply them to manage state and data flows.
-
-- 🔍 **Поисковые алгоритмы:** Оптимизация поиска данных — ключ к быстродействующим приложениям. Я использую бинарный поиск и методы обхода графов, чтобы эффективно находить нужные данные.  
-  **Search Algorithms:** Optimizing data search is key to high-performing applications. I use binary search and graph traversal methods to efficiently find the required data.
-
-- 🛤️ **Графы:** Понимание графов открывает новые горизонты в разработке, позволяя мне решать задачи кратчайшего пути и анализировать сложные взаимосвязи между данными.  
-  **Graphs:** Understanding graphs opens new horizons in development, allowing me to solve shortest path problems and analyze complex relationships between data.
-
----
-
-### 🌐 Frontend Development
 
 ### 🌐 Frontend Development
 
@@ -77,6 +57,23 @@ As a frontend developer, I build **intuitive interfaces** and **engaging user ex
 - 🌐 **Axios и React Query:** Для работы с API я использую Axios и React Query, что позволяет мне эффективно управлять запросами и состоянием данных, упрощая взаимодействие с сервером.  
   **Axios and React Query:** I use Axios and React Query for API interactions, which enables me to efficiently manage requests and data state, simplifying server communication.
 
+  
+### Алгоритмы и структуры данных / Algorithms and Data Structures
+
+Я уверенно работаю с **алгоритмами и структурами данных**, что позволяет мне создавать эффективные и оптимизированные приложения. 💡  
+I confidently work with **algorithms and data structures**, enabling me to create efficient and optimized applications. 💡
+
+- 📚 **Алгоритмы сортировки:** Понимание различных методов сортировки помогает мне выбирать лучший подход для обработки данных. Например, я использую Quick Sort и Merge Sort для достижения максимальной производительности!  
+  **Sorting Algorithms:** Understanding different sorting methods helps me choose the best approach for data processing. For instance, I use Quick Sort and Merge Sort for maximum performance!
+
+- 🗃️ **Структуры данных:** Массивы, стеки и очереди — это основные строительные блоки для создания сложных приложений. Я с легкостью применяю их для управления состоянием и потоками данных.  
+  **Data Structures:** Arrays, stacks, and queues are essential building blocks for creating complex applications. I easily apply them to manage state and data flows.
+
+- 🔍 **Поисковые алгоритмы:** Оптимизация поиска данных — ключ к быстродействующим приложениям. Я использую бинарный поиск и методы обхода графов, чтобы эффективно находить нужные данные.  
+  **Search Algorithms:** Optimizing data search is key to high-performing applications. I use binary search and graph traversal methods to efficiently find the required data.
+
+- 🛤️ **Графы:** Понимание графов открывает новые горизонты в разработке, позволяя мне решать задачи кратчайшего пути и анализировать сложные взаимосвязи между данными.  
+  **Graphs:** Understanding graphs opens new horizons in development, allowing me to solve shortest path problems and analyze complex relationships between data.
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dycGhsd2lib3kza2UwMTQ2cnVtY2V1cHIwOTV6OGJ2YW11MTl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
