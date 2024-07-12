@@ -2,23 +2,23 @@
 
 # 👋 Привет! Я temawan2gecko
 
-## Я **фронтенд-разработчик** с увлечением к созданию красивых и функциональных веб-приложений. 
+# Я **фронтенд-разработчик** с увлечением к созданию красивых и функциональных веб-приложений. 
 ## Мой основной стек включает:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=HTML5) 
 ![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=sass) 
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript) 
-![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack) 
-![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=vite) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss) 
-![Material-UI](https://img.shields.io/badge/-Material%20UI-333?style=for-the-badge&logo=materialui) 
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333?style=for-the-badge&logo=redux) 
 ![React Router](https://img.shields.io/badge/-React%20Router-333?style=for-the-badge&logo=react-router) 
 ![Axios](https://img.shields.io/badge/-Axios-333?style=for-the-badge&logo=axios) 
 ![React Query](https://img.shields.io/badge/-React%20Query-333?style=for-the-badge&logo=reactquery) 
 ![Jest](https://img.shields.io/badge/-Jest-333?style=for-the-badge&logo=jest) 
+![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack) 
+![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=vite) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss) 
+![Material-UI](https://img.shields.io/badge/-Material%20UI-333?style=for-the-badge&logo=materialui) 
 
 ---
 
