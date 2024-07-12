@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Привет! Я temawan2gecko
+# 👋 Привет! Я temawan2gecko / Hello! I’m temawan2gecko
 
 
-# Я **front-end developer**. 
-## Мой основной стек включает:
+# I'm **front-end developer**. 
+## Мой основной стек включает / My Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=HTML5) 
 ![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=sass) 
@@ -23,9 +23,9 @@
 
 ---
 
-## 🛠️ Мои навыки
+## 🛠️ Мои навыки / My Skills
 </div>
-Алгоритмы и структуры данных
+Алгоритмы и структуры данных / Algorithms and Data Structures
 
 - 📚 **Алгоритмы сортировки:** Quick Sort, Merge Sort, Bubble Sort
 - 🗃️ **Структуры данных:** Массивы, Стеки, Очереди, Связные списки, Деревья
