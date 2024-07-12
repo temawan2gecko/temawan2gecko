@@ -75,10 +75,21 @@ I confidently work with **algorithms and data structures**, enabling me to creat
 - 🛤️ **Графы:** Понимание графов открывает новые горизонты в разработке, позволяя мне решать задачи кратчайшего пути и анализировать сложные взаимосвязи между данными.  
   **Graphs:** Understanding graphs opens new horizons in development, allowing me to solve shortest path problems and analyze complex relationships between data.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dycGhsd2lib3kza2UwMTQ2cnVtY2V1cHIwOTV6OGJ2YW11MTl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
-</div>
 
+<div align="center">
+
+ ---
+ 
+💖 Спасибо за визит! / Thank you for visiting!
+
+✨ **Следите за моими обновлениями и проектами!** ✨  
+✨ **Stay tuned for my updates and projects!** ✨
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dycGhsd2lib3kza2UwMTQ2cnVtY2V1cHIwOTV6OGJ2YW11MTl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+
+---
+
+<div>
 <!--
 **temawan2gecko/temawan2gecko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
